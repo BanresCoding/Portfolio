@@ -1,9 +1,8 @@
 theme: jekyll-theme-time-machine
 title: Banres Coding
 description: The portfolio and resources from Alexander Barnes!
-
 navigation:
   - title: Home
     url: /
   - title: Games
-    url: games
+    url: /games/
