@@ -4,6 +4,6 @@ description: The portfolio and resources from Alexander Barnes!
 baseurl: /Home/
 navigation:
   - title: Home
-    url: /Home/
+    url: /
   - title: Games
     url: /games/
