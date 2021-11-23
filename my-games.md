@@ -1,11 +1,11 @@
 ---
 description: "My Games"
 filename: my-games.md
-permalink: /games/
+permalink: /Games/
 ---
 
-hello world
+##One Simple Test
 
-```
-hows it going???
-```
+##Trials 64
+
+##CS Project(change heading later)
