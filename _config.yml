@@ -8,4 +8,4 @@ navigation:
   - title: Home
     url: /
   - title: Games
-    url: /games/
+    url: games
