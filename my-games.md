@@ -4,7 +4,7 @@ filename: my-games.md
 permalink: /games/
 ---
 
-##hello world
+hello world
 
 ```
 hows it going???
