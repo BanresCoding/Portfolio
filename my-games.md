@@ -1,5 +1,4 @@
 ---
-layout: template
 title: "My Games"
 filename: my-games.md
 permalink: /games/
