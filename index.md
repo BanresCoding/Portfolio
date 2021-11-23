@@ -2,6 +2,7 @@
 title: Home
 filename: index.md
 layout: default
+permalink: /Home/
 --- 
 
 ### Markdown
