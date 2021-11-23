@@ -1,7 +1,7 @@
 theme: jekyll-theme-hacker
 title: Alexander Barnes
 description: The portfolio and resources from Alexander Barnes!
-baseurl: /Home/
+baseurl: /
 navigation:
   - title: Home
     url: /
