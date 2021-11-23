@@ -1,5 +1,5 @@
 ---
-title: Home
+title: My Portfolio
 filename: index.md
 --- 
 
