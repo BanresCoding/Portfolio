@@ -1,5 +1,5 @@
 ---
-title: "My Games"
+description: "My Games"
 filename: my-games.md
 permalink: /games/
 ---
