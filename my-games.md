@@ -4,7 +4,7 @@ filename: my-games.md
 permalink: /Games/
 ---
 
-##One Simple Test
+##new platformer jam
 
 ##Trials 64
 
