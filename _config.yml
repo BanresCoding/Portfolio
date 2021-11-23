@@ -1,8 +1,9 @@
 theme: jekyll-theme-hacker
 title: Alexander Barnes
 description: The portfolio and resources from Alexander Barnes!
+baseurl: /Home/
 navigation:
   - title: Home
-    url: /
+    url: /Home/
   - title: Games
     url: /games/
