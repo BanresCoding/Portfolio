@@ -1,7 +1,6 @@
 ---
 title: Home
 filename: index.md
-layout: full
 --- 
 
 ### Markdown
