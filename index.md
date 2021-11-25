@@ -9,7 +9,7 @@ I am a sixth form student from the United Kingdom with an aspiration for coding.
 Below are three of my projects.
 
 ## [Trials 64](https://banrescoding.github.io/Portfolio/trials-64/)
-![Trials 64](github.com/BanresCoding/Portfolio/Images/JUbTYl.png)
+![Trials 64](/Portfolio/Images/JUbTYl.png)
 
 ## [Tower Defence Game](https://banrescoding.github.io/Portfolio/TD/)
 
