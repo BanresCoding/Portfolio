@@ -1,5 +1,5 @@
 ---
-permalink: /TD/
+permalink: /cosmic-incursion/
 description: Tower Defence Game
 ---
 # Cosmic Incursion
