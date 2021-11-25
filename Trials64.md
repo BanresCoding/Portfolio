@@ -1,1 +1,3 @@
-
+---
+permalink: /trials-64/
+---
