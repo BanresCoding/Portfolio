@@ -2,7 +2,6 @@
 permalink: /cosmic-incursion/
 description: Tower Defence Game
 ---
-[Back](https://banrescoding.github.io/Portfolio/)
 # Cosmic Incursion
-
+[Back](https://banrescoding.github.io/Portfolio/)
 ## About the Game:
