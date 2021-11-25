@@ -12,6 +12,7 @@ Below are three of my projects.
 ![Trials 64](/Portfolio/Images/JUbTYl.png)
 
 ## [Cosmic Incursion](https://banrescoding.github.io/Portfolio/cosmic-incursion/)
+![Cosmic Incursion](/Portfolio/Images/ahyeas.PNG)
 
 ## [GameJamPlatformer](https://banrescoding.github.io/Portfolio/platformer/)
 
