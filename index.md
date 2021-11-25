@@ -1,9 +1,8 @@
 ---
-description: Home
+title: Home
 filename: index.md
 --- 
 
-# Home
 
 
 
