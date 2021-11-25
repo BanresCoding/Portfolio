@@ -10,6 +10,10 @@ Below are three of my projects.
 
 ## [Trials 64](https://banrescoding.github.io/Portfolio/trials-64/)
 
+## [Tower Defence Game](https://banrescoding.github.io/Portfolio/trials-64/TD/)
+
+## [GameJamPlatformer](https://banrescoding.github.io/Portfolio/trials-64/platformer/)
+
 ```markdown
 Syntax highlighted code block
 
