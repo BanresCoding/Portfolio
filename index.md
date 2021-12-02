@@ -8,7 +8,7 @@ Welcome!
 I am a sixth form student from the United Kingdom with an aspiration for coding.
 Below are three of my projects.
 
-## [Trials 64](https://github.com/BanresCoding/Portfolio/blob/gh-pages/Games/Trials64.html)
+## [Trials 64](https://github.com/BanresCoding/Portfolio/Games/Trials64.html)
 ![Trials 64](/Portfolio/Images/JUbTYl.png)
 
 ## [Cosmic Incursion](https://banrescoding.github.io/Portfolio/cosmic-incursion/)
