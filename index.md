@@ -14,7 +14,7 @@ Below are three of my projects.
 ## [Cosmic Incursion](https://banrescoding.github.io/Portfolio/cosmic-incursion/)
 ![Cosmic Incursion](/Portfolio/Images/ahyeas.PNG)
 
-## [Arcane Ascent](https://banrescoding.github.io/Portfolio/ArcaneAscent/)
+## [Arcane Ascent](https://banrescoding.github.io/Portfolio/Arcane-Ascent/)
 
 ```markdown
 Syntax highlighted code block
