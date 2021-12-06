@@ -11,4 +11,4 @@ A/D - Lean
 Space - Pause
 Escape - Return to menu
 
-## [Download on itch.io!](https://banres.itch.io/trials-64-jam)
+## [Download on itch.io!](https://banres.itch.io/trials-64)
