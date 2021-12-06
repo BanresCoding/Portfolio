@@ -7,8 +7,10 @@ Testing!!
 
 ## Controls
 
-A/D - Move
-Space - Jump
-E - Interact
+A/D - Move  
+Space - Jump  
+Left Click - Melee Attack  
+Right Click - Projectile Attack  
+E - Interact  
 
 ## [Download on itch.io!](https://banres.itch.io/arcane-ascent)
