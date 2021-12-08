@@ -9,13 +9,13 @@ I am a sixth form student from the United Kingdom with an aspiration for coding.
 Below are three of my projects.
 
 ## [Trials 64](https://banrescoding.github.io/Portfolio/Trials-64/)
-<img src="/Portfolio/Images/JUbTYl.png" width="30%">
+<img src="/Portfolio/Images/JUbTYl.png" width="20%">
 
 ## [Cosmic Incursion](https://banrescoding.github.io/Portfolio/cosmic-incursion/)
-<img src="/Portfolio/Images/ahyeas.PNG" width="30%">
+<img src="/Portfolio/Images/ahyeas.PNG" width="20%">
 
 ## [Arcane Ascent](https://banrescoding.github.io/Portfolio/Arcane-Ascent/)
-<img src="/Portfolio/Images/ArcaneIcon.PNG" width="30%">
+<img src="/Portfolio/Images/ArcaneIcon.PNG" width="20%">
 
 ```markdown
 Syntax highlighted code block
