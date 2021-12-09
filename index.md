@@ -1,8 +1,9 @@
 ---
 filename: index.md
 --- 
-# Home
 <img src="/Portfolio/Images/me.PNG" align="right" width="25%">
+# Home
+
 ## About me
 Welcome!
 
