@@ -2,6 +2,7 @@
 filename: index.md
 --- 
 <img src="/Portfolio/Images/me.PNG" align="right" width="25%">
+
 # Home
 
 ## About me
