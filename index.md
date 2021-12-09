@@ -2,11 +2,10 @@
 filename: index.md
 --- 
 # Home
-
+<img src="/Portfolio/Images/me.PNG" align="right" width="25%">
 ## About me
 Welcome!
 
-<img src="/Portfolio/Images/me.PNG" align="right" width="30%">
 I am a sixth form student from the United Kingdom with an aspiration for coding.
 Below is some of my work
 
