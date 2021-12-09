@@ -6,7 +6,7 @@ filename: index.md
 ## About me
 Welcome!
 
-<img align="right" src="Portfolio/Images/me.PNG" alt="My Image">
+<img align="right" src="Portfolio/Images/me.PNG" alt="My Image" width="30%">
 I am a sixth form student from the United Kingdom with an aspiration for coding.
 Below is some of my work
 
