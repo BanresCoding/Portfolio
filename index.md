@@ -1,7 +1,7 @@
 ---
 filename: index.md
 --- 
-<img src="/Portfolio/Images/me.PNG" align="right" width="20%">
+<img src="/Portfolio/Images/Me.jpg" align="right" width="20%">
 
 # Home
 
