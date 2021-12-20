@@ -1,5 +1,5 @@
 ---
-permalink: /Sttr-Web/
+permalink: /Sttr-Demo/
 ---
 
 <iframe src="https://banrescoding.github.io/Portfolio/Games/SticktotheRhythmWeb/" align="center" name="SttR" style="height:640px;width:800px;border:none;" title="SttR"></iframe>
