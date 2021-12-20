@@ -8,5 +8,5 @@ permalink: /Arcane-Ascent-Demo/
 A/D - Move  
 Space - Jump  
 E - Interact  
-Left Click - Melee Attack
-Right Click - Ranged Attack
+Left Click - Melee Attack  
+Right Click - Ranged Attack  
