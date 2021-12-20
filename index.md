@@ -32,6 +32,6 @@ Try a demo <a href="https://banrescoding.github.io/Portfolio/Trials-64-Demo/">he
 Try a demo <a href="https://banrescoding.github.io/Portfolio/Arcane-Ascent-Demo/">here</a>!
 ## About the Game:
 
-# Thinking
-
+# Swinging to the Rhythm
+Try a demo <a href="https://banrescoding.github.io/Portfolio/SttR-Demo/">here</a>!
 ## About the Game:
