@@ -25,7 +25,7 @@ Cosmic Incurion is a game I have been working on for my OCR A-Level Computer Sci
 <img src="/Portfolio/Images/TDGame/Dijkstras.PNG" width="48%"> <img src="/Portfolio/Images/TDGame/movement.PNG" width="48%"> <img src="/Portfolio/Images/TDGame/healthbar.PNG" width="48%"> <img src="/Portfolio/Images/TDGame/getnearest.PNG" width="48%"> 
 
 # Trials 64
-
+Try a demo <a href="https://banrescoding.github.io/Portfolio/Trials-64-Demo/">here</a>!
 ## About the Game:
 
 # Arcane Ascent
