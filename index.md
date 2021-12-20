@@ -32,6 +32,6 @@ Cosmic Incurion is a game I have been working on for my OCR A-Level Computer Sci
 
 ## About the Game:
 
-# 
+# Thinking
 
 ## About the Game:
