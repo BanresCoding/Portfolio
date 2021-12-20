@@ -29,7 +29,7 @@ Try a demo <a href="https://banrescoding.github.io/Portfolio/Trials-64-Demo/">he
 ## About the Game:
 
 # Arcane Ascent
-
+Try a demo <a href="https://banrescoding.github.io/Portfolio/Arcane-Ascent-Demo/">here</a>!
 ## About the Game:
 
 # Thinking
