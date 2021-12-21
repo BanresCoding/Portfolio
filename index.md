@@ -38,5 +38,5 @@ _Try a demo <a href="https://banrescoding.github.io/Portfolio/Arcane-Ascent-Demo
 # Swinging to the Rhythm
 ## About the Game:
 <img src="/Portfolio/Images/icon.PNG" width="20%" align="right" style="padding-left: 15px;">
-Swinging to the Rhythm is a minioglf game again made for a development jam in under 48 hours in mid 2021. In the game, the player has to get the lowest score possible on the course I have created, and tasked to collect keys across the levels to access the ends to the holes.   
+Swinging to the Rhythm is a minigolf game again made for a development jam in under 48 hours in mid 2021. In the game, the player has to get the lowest score possible on the course I have created, and tasked to collect keys across the levels to access the ends to the holes.   
 _Try a demo <a href="https://banrescoding.github.io/Portfolio/SttR-Demo/">here</a>!_
