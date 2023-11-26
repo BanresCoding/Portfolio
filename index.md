@@ -17,7 +17,6 @@ The Exhibition Heist is a series of prototypes made in Bitsy and Unity for my 'E
 - <a href="https://banres.itch.io/the-exhibition-heist">Bitsy Prototype</a>
 
 ## Ratrio
-<img src="/Portfolio/Images/ArcaneIcon.PNG" width="20%" align="right" style="padding-left: 15px;">
 Ratrio is a roguelike game made for a group project in my first year at Sheffield Hallam. As a team of six(two artists, designers and programmers), we collaborated to create a game that tasked the player to manage their resources and defeat hordes of enemies to save the protagonist's daughter. My role in this project was to design the game mechanics, as well as how individual levels would appear when spawned in gameplay. Through this project, I built up my communication and time management skills by organising the team's weekly scrum meetings and setting goals to complete for each member of the team on a Trello board.
 
 - <a href="/Portfolio.L4GPBook.pdf">Development Document</a>
