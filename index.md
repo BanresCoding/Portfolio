@@ -7,7 +7,7 @@ I am a student at Sheffield Hallam University in my second year studying Game De
 <i><a href="https://www.linkedin.com/in/alexander-barnes-205a81299/">Find me on LinkedIn</a></i>
 
 # Twisty Junction
-Twisty Junction is a 2-4 player board game where players compete to construct roads and connect towns, whilst also sabotaging their opponents with obstructions throughout the game. This boardgame is the culmination of my 'Physical Games' module at Sheffield Hallam, and has strengthened my ability to document and explain changes that I have made to the game. 
+Twisty Junction is a 2-4 player board game where players compete to construct roads and connect towns, whilst also sabotaging their opponents with obstructions throughout the game. This boardgame is the culmination of my 'Physical Games' module at Sheffield Hallam, and has strengthened my ability to document and explain changes that I have made to the game.
 
 - <a href="/Portfolio/RulebookV2.pdf">Rulebook</a>
 
