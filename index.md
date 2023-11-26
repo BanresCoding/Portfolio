@@ -7,7 +7,7 @@ I am a student at Sheffield Hallam University in my second year studying Game De
 
 # Twisty Junction
 <img src="/Portfolio/Images/ahyeas.PNG" width="20%" align="right" style="padding-left: 15px;">
-Twisty Junction is a 2-4 player board game where players compete to construct roads and connect towns, whilst also sabotaging their opponents with obstructions throughout the game. This boardgame is the culmination of my 'Physical Games' module at Sheffield Hallam, and has strengthened my ability to document and explain changes that I have made to the game. you can download the rule book for the game [here](./RulebookV2.pdf)
+Twisty Junction is a 2-4 player board game where players compete to construct roads and connect towns, whilst also sabotaging their opponents with obstructions throughout the game. This boardgame is the culmination of my 'Physical Games' module at Sheffield Hallam, and has strengthened my ability to document and explain changes that I have made to the game. you can download the rule book for the game <a href="/Portfolio/RulebookV2.pdf">here</a>.
 
 ## Design Pictures  
 <img src="/Portfolio/Images/TDGame/PXL_20211125_113247153.MP.jpg" width="30%"> <img src="/Portfolio/Images/TDGame/PXL_20211125_113716305.jpg" width="30%"> <img src="/Portfolio/Images/TDGame/PXL_20211125_113356125.jpg" width="30%"> <img src="/Portfolio/Images/TDGame/PXL_20211125_113541515.jpg" width="30%"> <img src="/Portfolio/Images/TDGame/PXL_20211125_113508981.jpg" width="30%"> <img src="/Portfolio/Images/TDGame/original_311f8194-ada0-4d6a-8b75-43fd2b468505_PXL_20211124_122735195.jpg" width="30%">
